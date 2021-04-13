@@ -124,7 +124,7 @@ function Home() {
                                     state:{
                                         image: "https://images.unsplash.com/photo-1557343133-b5cf261ace6b?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=1050&q=80",
                                         score:"9/10",
-                                        text: "Attack on Titan! The story is one of the most captivating stories I've ever seen. 100 years prior to the start of the anime, humanity has been on the bridge of extinction due to the monstrous humanoid Titans that devour humans. Now, present day in the anime, the remaining small population of mankind lives confined within 3 `heavenly` walls that are so tall and sturdy that even the titans can't break in. The most outward wall was named, Wall Maria, the middle wall was named Wall Rose, and the most outward wall named Wall Sina.",
+                                        text: "Attack on Titan! The story is one of the most captivating stories I've ever seen. 100 years prior to the start of the anime, humanity has been on the bridge of extinction due to the monstrous humanoid Titans that devour humans. Now, present day in the anime, the remaining small population of mankind lives confined within 3 `heavenly` walls that are so tall and sturdy that even the titans can't break in.",
                                     }
                                 }}>
                                     Read More
@@ -220,7 +220,7 @@ function Home() {
                                     state: {
                                         image: "https://pixelz.cc/wp-content/uploads/2019/09/steins-gate-makise-kurisu-portrait-uhd-4k-wallpaper.jpg",
                                         score: "10/10",
-                                        text: "Steins;Gate! is about Okabe Rintarou, a “mad scientist” who spends his time hanging out in his laboratory with his friends Mayuri and Daru. Ocassionally, they manage to invent futuristic gadgets, though these are never worth mentioning. The first few episodes may turn you down, as it seems like your general slice of life/comedy anime. However, when their most interesting invention, the Phone Microwave, turns out to be able to send text messages through time, everything changes: the text messages sent to the past have a huge impact on the present.",
+                                        text: "Steins;Gate! is about Okabe Rintarou, a “mad scientist” who spends his time hanging out in his laboratory with his friends Mayuri and Daru. Ocassionally, they manage to invent futuristic gadgets, though these are never worth mentioning. The first few episodes may turn you down, as it seems like your general slice of life/comedy anime. However, when their most interesting invention, the Phone Microwave, turns out to be able to send text messages through time",
                                     }
                                 }}>
                                     Read More

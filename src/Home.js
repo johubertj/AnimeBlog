@@ -154,7 +154,7 @@ function Home() {
                                 <Button size="small" color="secondary" component={RouterLink} to={{
                                     pathname: '/blog/Juju',
                                     state: {
-                                        image: "https://image7.uhdpaper.com/wallpaper-mobile-hd/jujutsu-kaisen-yuji-itadori-uhdpaper.com-hd-mobile-7.2856.jpg",
+                                        image: "https://images.wallpapersden.com/image/download/satoru-gojo-cool-jujutsu-kaisen_bGtlamyUmZqaraWkpJRtaWWtZmZrZQ.jpg",
                                         score: "9/10",
                                         text: "Jujutsu Kaisen! So yes, I'm gonna first highlight the sector which totally carries JJK, the animation. JJK is a feast for your eyes. The animation is just so magnificent, starting from the beautiful landscapes to the sakuga on even the smallest fights. The fights are so well choreographed, the camera angles, the key frames. I don't have enough words to explain the greatness of the animation. You have to witness it for yourself.",
                                     }

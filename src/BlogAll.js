@@ -55,7 +55,8 @@ function BlogAll(props) {
         <div className={classes.root}>
             <AppBar className={classes.appBar} position="static">
                 <Toolbar className={classes.rhs}>
-                    <Button color="primary" component={RouterLink} to="/" >Home</Button>
+                    <Button color="primary" component={RouterLink} to="/home" >Home</Button>
+                    
                     <Button smooth="true" duration={350} component={RouterLink} to="/" color="primary">Blogs</Button>
                 </Toolbar>
             </AppBar>

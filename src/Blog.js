@@ -5,7 +5,6 @@ import { Link as RouterLink, LinkProps as RouterLinkProps } from 'react-router-d
 import AppBar from '@material-ui/core/AppBar';
 import Toolbar from '@material-ui/core/Toolbar';
 import Button from '@material-ui/core/Button';
-import Box from '@material-ui/core/Box';
 import Container from '@material-ui/core/Container';
 import Typography from '@material-ui/core/Typography';
 import Grid from '@material-ui/core/Grid';
@@ -92,9 +91,6 @@ function Home() {
                     <Button smooth="true" duration={350} component={Link} to="blogStart" color="primary">Blogs</Button>
                 </Toolbar>
             </AppBar>
-            <Box className={classes.hero}>
-                <Box></Box>
-            </Box>
 
             <Container maxWidth="lg" className={classes.blogsContainer}>
                 <Typography id="blogStart" variant="h4" className={classes.blogTitle}>
@@ -122,10 +118,10 @@ function Home() {
                             </CardActionArea>
                             <CardActions>
                                 <Button size="small" color="secondary" component={RouterLink} to={{
-                                    pathname:'/blog/AoT',
-                                    state:{
+                                    pathname: '/blog/AoT',
+                                    state: {
                                         image: "https://images.unsplash.com/photo-1557343133-b5cf261ace6b?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=1050&q=80",
-                                        score:"9/10",
+                                        score: "9/10",
                                         text: "Attack on Titan! The story is one of the most captivating stories I've ever seen. 100 years prior to the start of the anime, humanity has been on the bridge of extinction due to the monstrous humanoid Titans that devour humans. Now, present day in the anime, the remaining small population of mankind lives confined within 3 `heavenly` walls that are so tall and sturdy that even the titans can't break in.",
                                     }
                                 }}>
